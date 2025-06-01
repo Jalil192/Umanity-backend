@@ -1,0 +1,12 @@
+node_modules/
+.env
+logs
+*.log
+pids
+*.pid
+*.seed
+*.lock
+db.sqlite
+.supabase/
+.DS_Store
+*.sqlite
